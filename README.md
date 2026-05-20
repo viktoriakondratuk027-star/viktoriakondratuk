@@ -3,7 +3,7 @@
 I'm **Data Analyst** 📊
 
 - 🌱 I'm currently looking for a position where I can apply my skills and start my career.
-- 📫 Connect with me: **@vikakondratyuk**
+- 📫 Connect with me: [**@vikakondratyuk**](https://t.me/vikakondratyuk)
 
 ---
 
