@@ -3,7 +3,10 @@
 I'm **Data Analyst** 📊
 
 - 🌱 I'm currently looking for a position where I can apply my skills and start my career.
-- 📫 Connect with me: [**@vikakondratyuk**](https://t.me/vikakondratyuk)
+
+### 🔗 Connect with me:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vikakondratyuk)
 
 ---
 
@@ -21,10 +24,3 @@ I'm **Data Analyst** 📊
 ![SQL](https://img.shields.io/badge/SQL-%230074D1.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
-
-![Victoria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikakondratyuk&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikakondratyuk&layout=compact&theme=default)
