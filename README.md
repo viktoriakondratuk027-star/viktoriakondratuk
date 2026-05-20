@@ -26,7 +26,5 @@ I'm **Data Analyst** 📊
 
 ### 📊 GitHub Stats:
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=vikakondratyuk&show_icons=true&theme=default" alt="Victoria's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikakondratyuk&layout=compact&theme=default" alt="Top Languages" height="180"/>
-</div>
+![Victoria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikakondratyuk&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikakondratyuk&layout=compact&theme=default)
